@@ -3,6 +3,18 @@
 # https://github.com/zzzz0317/zzblacklist/
 ||360.cn^
 ||360.com^
+||360totalsecurity.com^
+||360securityapps.com^
+||360totalsecurity.com^
+||360securityapps.com^
+||360files.cn^
+||360hpc.cn^
+||周鸿祎.net^
+||360totalsecurity.cn^
+||zhenxinhua.com.cn^
+||kuaijian360.cn^
+||igame360.cn^
+||haosou.com.cn^
 ||dnsgogo.com^
 ||3600.com^
 ||anquanke.com^
